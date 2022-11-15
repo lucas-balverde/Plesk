@@ -1,0 +1,23 @@
+body {
+    background-color: #35393e;
+}
+h2 {
+    color: coral;
+}
+ul {
+    color: white;
+}
+
+h1 {
+    color: deepskyblue;
+    background-color: rgb(44, 44, 70);
+    padding: 5%;
+}
+
+img {
+    border-radius: 50%;
+
+}
+/*je ne comprends strictement rien a part ça, j'ai tout essayé
+ mais visiblement trop compliqué pour mes 14 de qi */
+ 
